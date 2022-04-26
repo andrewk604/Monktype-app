@@ -1,2 +1,2 @@
-# Monktype-app
-Created with CodeSandbox
+# bordle-website
+- My copy of Wordle by NY Times
